@@ -5,6 +5,5 @@
 </head>
 <body>
     <h1>Beauty and Health Products</h1>
-    <!-- Your beauty and health products content here -->
 </body>
 </html>
